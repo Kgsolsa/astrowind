@@ -7,7 +7,7 @@ heroImage: "/vlcsnap-2025-04-15-17h28m58s888.png"
 
 
 
-# Kurippusu-kun's Anime and Movies to Watch 2025 ðŸ˜‚
+# Kurippusu-kun's Anime and Movies to Watch 2025
 
 - Anime (https://www.instagram.com/reel/C-hggE0x0Uy/
 - Anime to watch - https://www.instagram.com/p/DK7TyICJ3v9/?img_index=4&
