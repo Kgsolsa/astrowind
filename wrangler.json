@@ -1,11 +1,13 @@
 {
   "name": "astrowind",
+  "main": "worker.js", // Add this line if you have a custom worker.js!
   "compatibility_date": "2025-04-01",
   "compatibility_flags": ["nodejs_compat"],
   "assets": {
     "directory": "./dist",
-    "binding" : "Assets"
+    "binding": "Assets" // Use "ASSETS" or your preferred name, but be consistent!
   },
+  "route": "https://astrowind.kurippusu.workers.dev/", // <-- Add your domain if deploying to a custom route
   "observability": {
     "enabled": true
   },
