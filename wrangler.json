@@ -4,7 +4,7 @@
   "compatibility_flags": ["nodejs_compat"],
   "assets": {
     "directory": "./dist",
-    "binding" : "Assets",
+    "binding" : "Assets"
   },
   "observability": {
     "enabled": true
