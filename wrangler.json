@@ -1,16 +1,12 @@
 {
   "name": "astrowind",
-  "type": "esm",
   "compatibility_date": "2025-04-01",
   "compatibility_flags": ["nodejs_compat"],
-  "bindings": [
-    {
-      "type": "static",
-      "name": "ASSETS",
-      "directory": "./dist"
-    }
-  ],
-  "dev": {
-    "upload_source_maps": true
-  }
+  "assets": {
+    "directory": "./dist",
+  },
+  "observability": {
+    "enabled": true
+  },
+  "upload_source_maps": true
 }
