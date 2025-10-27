@@ -1,19 +1,18 @@
-
 ---
-publishDate: 2025-08-12T00:00:00Z
+publishDate: 2025-10-12T00:00:00Z
 author: Kurippusu Wa Korosu
 title: Kurippusu's Anime and Animation To Watch List
 excerpt: Discover amazing new anime and western animation for your enjoyment. Explore my curated watchlist now! 😁
-image: Under-Ninja.png
+image: https://images.unsplash.com/photo-1516996087931-5ae405802f9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
 category: Anime
 tags:
-  - anime
-  - entertainment
-  - animation
-  - new
+    - anime
+    - entertainment
+    - animation
+    - new
 metadata:
   canonical: https://astrowind.vercel.app/get-started-website-with-astro-tailwind-css
-aliases: []
+aliases:
 ---
 
 # Kurippusu's Anime and Animation To Watch List
