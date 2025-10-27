@@ -1,8 +1,9 @@
+
 ---
 publishDate: 2025-08-12T00:00:00Z
 author: Kurippusu Wa Korosu
-title: Kurippusu's Anime and animation to Watch list
-excerpt: Discover new and amazing anime and western animation for your enjoyment. Explore my list now 😁.
+title: Kurippusu's Anime and Animation To Watch List
+excerpt: Discover amazing new anime and western animation for your enjoyment. Explore my curated watchlist now! 😁
 image: Under-Ninja.png
 category: Anime
 tags:
@@ -12,57 +13,71 @@ tags:
   - new
 metadata:
   canonical: https://astrowind.vercel.app/get-started-website-with-astro-tailwind-css
-aliases:
+aliases: []
 ---
+
+# Kurippusu's Anime and Animation To Watch List
+
+Here’s my ever-growing list of anime and western animations to check out!
+
+## Anime & Animation
 
 - Kage
 - Street Fighter
 - Purdue Pharma
-- Teen Titans vs Justice League and Teen Titans The Judas Contract
+- Teen Titans vs Justice League / Teen Titans: The Judas Contract
 - Tougen Anki
-- Movie - Meet the Spartans
-- Case Study of Varnitas
-- Welcome to Ballroom Sword Winner
-- The OP MC: God of Winning by Logan Jacobs - watch ASAP
-- Dead Leaves ASAP
-- Lord of The mysteries
+- **Movie:** Meet the Spartans
+- Case Study of Vanitas
+- Welcome to Ballroom: Sword Winner
+- **Light Novel:** The OP MC: God of Winning by Logan Jacobs — _watch ASAP_
+- **Movie:** Dead Leaves — _ASAP_
+- Lord of the Mysteries
 - Witch Hat Atelier
-- Sentenced to Be A Hero
-- Spare me Great Lord
+- Sentenced to Be a Hero
+- Spare Me, Great Lord!
 - Lazarus
-- Ninja Girl and Samurai Master
-- Lord of the mysteries
+- Ninja Girl & Samurai Master
 - Kuiyu Chouyuan
-- Wild Hogs movie
-- Grand Blue fantasy
-- Musishi
+- **Movie:** Wild Hogs
+- Granblue Fantasy
+- Mushishi
 - Noragami
 - Sengoku Youko
-- The Ossan newbie adventurer
+- The Ossan Newbie Adventurer
 - Gakuen Handsome
-- You're being Summoned Azazel
+- You’re Being Summoned, Azazel
 - Wistoria Wand
 - Trinity Blood
-- Soulmate adventure
-- The Most Notorious Talker https://www.instagram.com/reel/C9vSKYbR3Uz/
+- Soulmate Adventure
 
-- Birdie The Mighty Decode 
-https://www.instagram.com/reel/C_f_PAVR_kU/?igsh=YzljYTk1ODg3Zg==
-- Black Dynamite Cartoon
-- Lupin the third anime
+## Recommendations with Links
+
+- The Most Notorious Talker — [Instagram Reel](https://www.instagram.com/reel/C9vSKYbR3Uz/)
+- Birdie The Mighty Decode — [Instagram Reel](https://www.instagram.com/reel/C_f_PAVR_kU/?igsh=YzljYTk1ODg3Zg==)
+- March Comes in Like a Lion — [Instagram Reel](https://www.instagram.com/reel/C-hggE0x0Uy/?igsh=YzljYTk1ODg3Zg==)
+- Gunjo no Magmell — [Instagram Reel](https://www.instagram.com/reel/DDuoxb9S5tu/?igsh=YzljYTk1ODg3Zg==)
+- Anime to Watch — [Instagram Post](https://www.instagram.com/p/DK7TyICJ3v9/?img_index=4)
+
+## More to Watch
+
+- Black Dynamite (Cartoon)
+- Lupin the Third (Anime)
 - Death Mount Death Play
-- Btoom
-- Tekhnolyze
-- March comes like a lion (https://www.instagram.com/reel/C-hggE0x0Uy/?igsh=YzljYTk1ODg3Zg==)
-- Genocidal Organ movie
-- Gunjo no magmell here https://www.instagram.com/reel/DDuoxb9S5tu/?igsh=YzljYTk1ODg3Zg==
+- Btoom!
+- Texhnolyze
+- Genocidal Organ (Movie)
 - Orb: On the Movements of the Earth
-- Wolf's Rain
-- Yasuga no sora
-- Durarara ASAP
-- Daily Life of The Immortal King
+- Wolf’s Rain
+- Yosuga no Sora
+- Durarara!! — _ASAP_
+- The Daily Life of The Immortal King
 - Nanbaka
-- Movie to watch - Norbit
-- Kyousuogiga
+- **Movie:** Norbit
+- Kyousou Giga
 - Legend of the Cursed Blood
-- Anime to watch - https://www.instagram.com/p/DK7TyICJ3v9/?img_index=4
+
+---
+
+Happy watching!  
+If you have recommendations, let me know!
