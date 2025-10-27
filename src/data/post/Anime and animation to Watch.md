@@ -3,7 +3,7 @@ publishDate: 2025-10-12T00:00:00Z
 author: Kurippusu Wa Korosu
 title: Kurippusu's Anime and Animation To Watch List
 excerpt: Discover amazing new anime and western animation for your enjoyment. Explore my curated watchlist now! 😁
-image: /public/Duo_1.jpg
+image: ~/assets/images/Under-Ninja.png
 category: Anime
 tags:
     - anime
