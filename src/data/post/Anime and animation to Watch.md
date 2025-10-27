@@ -15,8 +15,6 @@ metadata:
 aliases:
 ---
 
-
-
 - Kage
 - Street Fighter
 - Purdue Pharma
